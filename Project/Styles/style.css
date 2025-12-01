@@ -1,0 +1,63 @@
+
+.one{
+	background-image: url(images/image2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+
+
+	#major{
+
+		/*h1 styles*/
+		color: blue;
+		font-size: 100px;
+		text-align: center;
+		font-family: cursive;
+		
+	}
+	#P1{
+		color: skyblue;
+		padding-left: 10px;
+		font-size: 30px;
+		font-style: italic;
+		text-align: center;
+		margin-top: -80px;
+	}
+	a{
+		text-decoration: none;
+	}
+	ul{
+		list-style-type: none;
+		display: block;
+		font-size: 50px;
+		display: flex;
+		justify-content: center;
+		text-indent: 50px;
+	}
+
+	header a:hover{
+		background-color: grey;
+		border-radius: 10px;
+		padding: 10px;
+	}
+	p{
+		font-size: 45px;
+		margin-top: 150px;
+		text-align: center;
+
+	}
+	/*Styling footer*/
+	footer{
+		font-size: 20px;
+		color: black;
+		margin-top: 100px;
+		text-align: center;
+	}
+
+
+	/*CSS for services page*/
+	
+
+	
+}
+
